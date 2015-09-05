@@ -2,7 +2,8 @@
 
 ### Steps:
 
-1) copy filename.aar in <project>/<module>/libs subfolder
+1) copy filename.aar in project_dir/module_dir/libs subfolder
+
 2) edit build.gradle file adding:
 ```
 repositories {
